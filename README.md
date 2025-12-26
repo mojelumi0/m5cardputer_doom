@@ -1,4 +1,5 @@
 # Doom!
+
 This is Doom for M5 Cardputer
 
 Cardputer does not have PSRAM, so things get tricky
@@ -54,7 +55,7 @@ Sometimes crashes randomly
 #### Build
 
 ```bash
-git clone https://github.com/romalik/m5cardputer_doom
+git clone https://github.com/mojelumi0/m5cardputer_doom
 ```
 ```bash
 idf.py build
